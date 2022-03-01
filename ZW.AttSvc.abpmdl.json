@@ -1,0 +1,79 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "ZW.AttSvc.Domain.Shared": {
+      "path": "src/ZW.AttSvc.Domain.Shared/ZW.AttSvc.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "ZW.AttSvc.Domain": {
+      "path": "src/ZW.AttSvc.Domain/ZW.AttSvc.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "ZW.AttSvc.Application.Contracts": {
+      "path": "src/ZW.AttSvc.Application.Contracts/ZW.AttSvc.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "ZW.AttSvc.Application": {
+      "path": "src/ZW.AttSvc.Application/ZW.AttSvc.Application.abppkg.json",
+      "folder": "src"
+    },
+    "ZW.AttSvc.EntityFrameworkCore": {
+      "path": "src/ZW.AttSvc.EntityFrameworkCore/ZW.AttSvc.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "ZW.AttSvc.MongoDB": {
+      "path": "src/ZW.AttSvc.MongoDB/ZW.AttSvc.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "ZW.AttSvc.HttpApi": {
+      "path": "src/ZW.AttSvc.HttpApi/ZW.AttSvc.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "ZW.AttSvc.HttpApi.Client": {
+      "path": "src/ZW.AttSvc.HttpApi.Client/ZW.AttSvc.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "ZW.AttSvc.TestBase": {
+      "path": "test/ZW.AttSvc.TestBase/ZW.AttSvc.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "ZW.AttSvc.EntityFrameworkCore.Tests": {
+      "path": "test/ZW.AttSvc.EntityFrameworkCore.Tests/ZW.AttSvc.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ZW.AttSvc.MongoDB.Tests": {
+      "path": "test/ZW.AttSvc.MongoDB.Tests/ZW.AttSvc.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ZW.AttSvc.Domain.Tests": {
+      "path": "test/ZW.AttSvc.Domain.Tests/ZW.AttSvc.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ZW.AttSvc.Application.Tests": {
+      "path": "test/ZW.AttSvc.Application.Tests/ZW.AttSvc.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "ZW.AttSvc.HttpApi.Host": {
+      "path": "host/ZW.AttSvc.HttpApi.Host/ZW.AttSvc.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "ZW.AttSvc.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/ZW.AttSvc.HttpApi.Client.ConsoleTestApp/ZW.AttSvc.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "ZW.AttSvc.IdentityServer": {
+      "path": "host/ZW.AttSvc.IdentityServer/ZW.AttSvc.IdentityServer.abppkg.json",
+      "folder": "host"
+    },
+    "ZW.AttSvc.Host.Shared": {
+      "path": "host/ZW.AttSvc.Host.Shared/ZW.AttSvc.Host.Shared.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "ZW.AttSvc": {
+      "path": "ZW.AttSvc.abpmdl.json"
+    }
+  }
+}
